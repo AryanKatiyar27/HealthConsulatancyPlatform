@@ -1,5 +1,5 @@
-# Doctor-Appointment-Scheduler
-A springboot based project that provides and easy to use web application which enables patients to schedule an appointment with a doctor of their choice.
+# Health-Consultancy-Platform
+A springboot based project that provides and easy to use web application which enables patients to schedule an appointment with a doctor of their choice adn consult about their medical HealthCare.
 
 ### Functionalities
 * Patient Regitrsation
